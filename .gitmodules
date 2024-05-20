@@ -1,3 +1,6 @@
 [submodule "externals/AtlasNet"]
 	path = externals/AtlasNet
 	url = https://github.com/ThibaultGROUEIX/AtlasNet.git
+[submodule "externals/dispersion-score"]
+	path = externals/dispersion-score
+	url = https://github.com/YefanZhou/dispersion-score.git
